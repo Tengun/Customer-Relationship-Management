@@ -1,0 +1,27 @@
+button, select, input, textarea, .btn{
+    box-shadow: none !important;
+}
+header a{
+    text-decoration: none !important;
+}
+.fa-heart{
+    color: #ff0000;
+}
+.btn-danger{
+    background-color: #b60000 !important;
+    border: none !important;
+    margin-left: 70px;
+}
+.send-btn{
+    background-color: rgb(51, 51, 51);
+}
+.community-dropdown{
+    color: #000000 !important;
+    margin-left: 30px;
+}
+.municipal-dropdown{
+    color: #000000 !important;
+}
+.board-bg{
+    background-color: rgb(51, 51, 51);
+}
